@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <MantineFooter height={60} p="xs">
       <Container>
-        <Text>&copy; 2024 ProductHunt Redesign</Text>
+        <Text>&copy; 2024 ProductHunt</Text>
       </Container>
     </MantineFooter>
   );

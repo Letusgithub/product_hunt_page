@@ -1,6 +1,6 @@
 "use client";
 
-import './globals.css'
+import "./globals.css";
 import Head from "next/head";
 import Header from "@/components/header";
 import ProductDetails from "@/components/product_details";
@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>ProductHunt Redesign</title>
+        <title>ProductHunt</title>
         <meta
           name="description"
           content="ProductHunt Redesign using Next.js and Mantine"
@@ -21,13 +21,13 @@ export default function Home() {
 
       <Header />
 
-      <main>
-        <Container>
-          <ProductDetails />
-        </Container>
-      </main>
+      {/* <main>
+        <Container> */}
+      <ProductDetails />
+      {/* </Container>
+      </main> */}
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
