@@ -1,3 +1,13 @@
+VideoDubber - Fast Video Translator
+
+Overview:
+VideoDubber is a fast video translation tool that allows users to translate videos into their own voice with just a click. The application provides an intuitive and seamless user experience to globalize content effortlessly.
+Instant Translation: Translate videos into multiple languages quickly.
+Voice Personalization: Use your own voice for translations.
+User-Friendly Interface: Simple and intuitive UI for easy navigation.
+Global Reach: Make your videos accessible to a global audience.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
